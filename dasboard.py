@@ -11,8 +11,7 @@ df_hour = pd.read_csv("hour.csv")
 
 
 # Menampilkan judul dashboard dan deskripsi
-st.title('Dashboard Analisis Bike Share')
-st.write("Pilihlah pada bagian kiri untuk menampilkan hasil analisis")
+st.title('Bike Rentals Dashboard ')
 
 # Menampilkan dataset
 st.sidebar.title("Dataset Bike Share")
