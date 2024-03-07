@@ -24,9 +24,11 @@ In creating a dashboard, there are several steps that must be prepared
 * Install Streamlit in the terminal or command prompt using pip install streamlit
 * install other libraries such as pandas, numpy, scipy, matplotlib, and seaborn if you haven't already done so/have them
 5. Screenshoot
-![screencapture-twenty-seas-burn-loca-lt-2024-03-02-01_21_09](https://github.com/taniaasywl/Proyek-Dicoding/assets/160004942/3415ff40-2b8f-4f99-aee1-8cb12d17197a)
-![screencapture-twenty-seas-burn-loca-lt-2024-03-02-01_21_23](https://github.com/taniaasywl/Proyek-Dicoding/assets/160004942/2c555228-43b5-4959-9363-3bfc7d9fcaf4)
-![screencapture-twenty-seas-burn-loca-lt-2024-03-02-01_21_38](https://github.com/taniaasywl/Proyek-Dicoding/assets/160004942/cf7f5de7-1578-47ce-856a-34a63bc123aa)
+![1](https://github.com/NurcintaAsih/project/blob/main/1.png)
+![2](https://github.com/NurcintaAsih/project/blob/main/2.png)
+![3](https://github.com/NurcintaAsih/project/blob/main/3.png)
+
+
 
 
 
