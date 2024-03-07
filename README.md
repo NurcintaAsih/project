@@ -1,5 +1,5 @@
-# Dasboard  Bike Rentals 
-dasboard Bike rental  is one of the final projects of data analysis in python. I will analyze and create a dashboard from the bike sharing dataset. In the book notes file I have attached how I carry out analysis from Data Wrangling, Exploratory Data Analysis, and Data Visualization. Apart from that, I also made a dashboard using Streamlit. 
+# Bike Rentals Dashboard 
+Bike rental dashboard is one of the final projects of data analysis in python. I will analyze and create a dashboard from the bike sharing dataset. In the book notes file I have attached how I carry out analysis from Data Wrangling, Exploratory Data Analysis, and Data Visualization. Apart from that, I also made a dashboard using Streamlit. 
 #Project work cycle
 1. Data Wrangling :
    * Gathering data
